@@ -1,0 +1,11 @@
+# Object files and default executables
+*.o
+*.ko
+*.lo
+*.so
+*.so.?
+*.out
+
+# Editor and tag files
+.swp*
+tags
